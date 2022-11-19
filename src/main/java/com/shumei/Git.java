@@ -7,5 +7,6 @@ public class Git {
         System.out.println("hello,java");
         System.out.println("hello,java4");
         System.out.println("hello,master test");
+        System.out.println("hello,hot-fix1");
     }
 }
